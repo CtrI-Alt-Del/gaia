@@ -86,7 +86,7 @@ responsabilidades:
 
 ## 📚 Documentação do projeto
 
-- [DoD (Definition of Ready)](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/dor.md)
+- [DoR (Definition of Ready)](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/dor.md)
 - [DoD (Definition of Done)](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/dod.md)
 - [Estratégia de branches](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/branch-stragery.md)
 - [Padrão de commit](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/commit-pattern.md)
