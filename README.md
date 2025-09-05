@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Gryphon 🦁</h1>
+  <h1>Gaia 🍄‍🟫</h1>
 </div>
 
 ## 🎯 Descrição do desafio
@@ -23,9 +23,7 @@ desastres naturais.
 
 ## 🗓️ Cronograma e Sprints do projeto
 
-Claro, aqui está o código da sua tabela Markdown corrigido e formatado:
-
-| Sprint |    Período da Sprint    |                                       Link para a documentação                                       |             Link para o Vídeo no Youtube             |     Status      |
+| Sprint |    Período da Sprint    |                                       Link para a documentação                                       |             Link para o vídeo no Youtube             |     Status      |
 | :----: | :---------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :-------------: |
 |   01   | 08/09/2025 a 28/09/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-1-report.md) | [Vídeo](https://www.youtube.com/watch?v=jNQXAC9IVRw) | Em andamento 🚧 |
 |   02   | 06/10/2025 a 26/10/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-2-report.md) | [Vídeo](https://www.youtube.com/watch?v=jNQXAC9IVRw) | Em andamento 🚧 |
@@ -35,8 +33,6 @@ Claro, aqui está o código da sua tabela Markdown corrigido e formatado:
 
 O sistema foi desenvolvido utilizando um conjunto de tecnologias para garantir
 coleta, processamento, persistência e disponibilização dos dados meteorológicos:
-
-Aqui está a lista atualizada com a adição do Terraform:
 
 - **[HiveMQ](https://www.hivemq.com/)** → Broker MQTT responsável por gerenciar
   a publicação e assinatura de mensagens.
@@ -99,6 +95,6 @@ responsabilidades:
 |  <img src="https://github.com/JoaoGabrielGarcia.png?size=50" width="50">   |  Joao Gabriel Oliveira  | Product Owner |  <a href="https://github.com/JoaoGabrielGarcia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   |  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-oliveira-garcia-b2563a22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  |
 | <img src="https://github.com/PasteldePaodeCoxinha.png?size=50" width="50"> |  Caique Péricles Silva  |   Dev Team    | <a href="https://github.com/PasteldePaodeCoxinha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |               <a href="https://www.linkedin.com/in/caiquepastelsilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>                |
 |   <img src="https://github.com/EduardoKuwahara.png?size=50" width="50">    | Eduardo Kuwahara Junior |   Dev Team    |   <a href="https://github.com/EduardoKuwahara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>    |       <a href="https://www.linkedin.com/in/eduardo-kuwahara-junior-3b2267303/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>       |
-|       <img src="https://github.com/Tico1606.png?size=50" width="50">       |    Gabriel Oliveira     |  Dev Master   |       <a href="https://github.com/Tico1606"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>       |          <a href="https://www.linkedin.com/in/gabriel-oliveira-884ba5282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>           |
+|       <img src="https://github.com/Tico1606.png?size=50" width="50">       |    Gabriel Oliveira     |  Dev Team   |       <a href="https://github.com/Tico1606"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>       |          <a href="https://www.linkedin.com/in/gabriel-oliveira-884ba5282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>           |
 |        <img src="https://github.com/kaufon.png?size=50" width="50">        |  Kauan Fonseca do Vale  |   Dev Team    |        <a href="https://github.com/kaufon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>        |            <a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>            |
 |        <img src="https://github.com/0thigs.png?size=50" width="50">        |     Thiago Martins      |   Dev Team    |        <a href="https://github.com/0thigs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>        |            <a href="https://www.linkedin.com/in/desenvolvedor-frontend/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>             |
