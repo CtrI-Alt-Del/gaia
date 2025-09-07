@@ -33,6 +33,7 @@ ambiente de produção é atualizado apenas por meio de lançamentos de versões
    - Os PRs ao serem abertos passam por revisão de código e execução automática
      de testes e build para garantir a integração do trabalho do desenvolvedor o
      quanto antes.
+    - O título do PR deve conter o ID da tarefa correspondente (ex: [#123] Ajuste no login).
 
 4. **Integração em Staging**
 
