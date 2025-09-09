@@ -1,6 +1,6 @@
 [submodule "gaia-web"]
-	path = gaia-web
-	url = https://github.com/CtrI-Alt-Del/gaia-web
+	path = gaia-panel
+	url = https://github.com/CtrI-Alt-Del/gaia-panel
 	branch = main
 [submodule "gaia-server"]
 	path = gaia-server
