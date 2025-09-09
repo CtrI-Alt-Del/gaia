@@ -4,7 +4,7 @@
 
 ## 🎯 Descrição do desafio
 
-A Tecsusuma empresa de tecnologia que cria soluções inteligentes para ajudar no uso mais eficiente de recursos como água, energia elétrica e gás, busca expandir sua atuação para o
+A Tecsus é uma empresa de tecnologia que cria soluções inteligentes para ajudar no uso mais eficiente de recursos como água, energia elétrica e gás, busca expandir sua atuação para o
 monitoramento ambiental. O desafio consiste em desenvolver uma solução completa
 para estações meteorológicas de baixo custo, capazes de medir direção e
 velocidade do vento, índice pluviométrico, umidade, temperatura e pressão. Os
