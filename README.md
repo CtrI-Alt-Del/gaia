@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Gaia 🍄‍🟫</h1>
+  <h1>Sistema para monitoramento de Estações Meteorológicas: Gaia🌿</h1>
 </div>
 
 ## 🎯 Descrição do desafio
@@ -67,6 +67,10 @@ coleta, processamento, persistência e disponibilização dos dados meteorológi
   código (IaC) para automatizar o provisionamento e gerenciamento da
   infraestrutura da aplicação.
 
+## 🏢 Arquitetura do Projeto
+
+<img src="./media/archtecture.png" />
+
 ## 📁 Estrutura do Repositório
 
 O projeto segue uma arquitetura de microserviços com separação clara de
@@ -78,6 +82,10 @@ responsabilidades:
   dashboards e relatórios para os usuários
 - **`documentation/`**: Documentação técnica e relatórios de progresso do
   projeto
+
+## ▶️ Como executar o projeto
+
+Acesse os repositórios **`gaia-server/`** e **`gaia-web/`** e clone ambos na sua máquina, verifique no **`readme.md`** de cada repositório como rodar o projeto e quais rotas acessar.
 
 ## 📚 Documentação do projeto
 
