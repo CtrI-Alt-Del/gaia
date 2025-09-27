@@ -93,6 +93,9 @@ Acesse os repositórios **`gaia-server/`** e **`gaia-web/`** e clone ambos na su
 - [DoD (Definition of Done)](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/dod.md)
 - [Estratégia de branches](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/branch-stragery.md)
 - [Padrão de commit](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/commit-pattern.md)
+- [Gestão da automação](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/gestao-da-automação.md)
+- [Gestão do processo](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/gestao-do-processo.md)
+- [Gestão do conhecimento](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/gestao-do-conhecimento.md)
 
 ## 👷🏻 Equipe
 
