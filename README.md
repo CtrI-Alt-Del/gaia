@@ -24,7 +24,7 @@ desastres naturais.
 
 | Sprint |    Período da Sprint    |                                       Link para a documentação                                       |             Link para o vídeo no Youtube             |     Status      |
 | :----: | :---------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :-------------: |
-|   01   | 08/09/2025 a 28/09/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-1-report.md) | [Vídeo](https://www.youtube.com/watch?v=jNQXAC9IVRw) | Em andamento 🚧 |
+|   01   | 08/09/2025 a 28/09/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-1-report.md) | [Vídeo](https://drive.google.com/file/d/1NVJC_6bO8k0GkvUksZzdhMamQl-jTsjU/view?usp=sharing) | Concluida ✅ |
 |   02   | 06/10/2025 a 26/10/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-2-report.md) | [Vídeo](https://www.youtube.com/watch?v=jNQXAC9IVRw) | Em andamento 🚧 |
 |   03   | 03/11/2025 a 23/11/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-3-report.md) | [Vídeo](https://www.youtube.com/watch?v=jNQXAC9IVRw) | Em andamento 🚧 |
 
