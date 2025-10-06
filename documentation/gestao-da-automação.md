@@ -48,8 +48,24 @@ Para manter o quadro do Jira sempre atualizado e refletindo a realidade, automa�
 
 ## 2. Automação do Ciclo de Desenvolvimento (CI/CD)
 
-Esta seção detalha as automações aplicadas diretamente ao nosso código-fonte, desde a verificação de qualidade e testes até a entrega contínua nos ambientes de Homologação e Produção.
+O Projeto Gaia utiliza **GitHub Actions** para automatizar parte do ciclo de desenvolvimento, garantindo que o código enviado para o repositório esteja funcional e atenda aos padrões de qualidade definidos.
 
-**A fazer...**
+### 2.1. Workflow de Integração Contínua (CI)
 
-*[Esta parte será preenchida pelo membro da equipe responsável pela infraestrutura e pelo pipeline de CI/CD, detalhando os passos de testes automatizados, build, deploy e outras ferramentas utilizadas no processo.]*
+Atualmente, implementamos um workflow de **Integração Contínua (Continuous Integration)** que é executado automaticamente a cada *push* ou *pull request* realizado na branch principal do repositório.
+
+**Etapas do Workflow:**
+
+1. **Instalação de Dependências**  
+   O ambiente é configurado e todas as dependências do projeto são instaladas automaticamente, garantindo que a execução ocorra em um ambiente limpo e padronizado.
+
+2. **Execução dos Testes Unitários**  
+   Todos os testes unitários são executados para validar se as principais funcionalidades do sistema permanecem estáveis após novas alterações.  
+   *Objetivo:* evitar regressões e identificar falhas o mais cedo possível.
+
+3. **Build do Projeto**  
+   Após a validação dos testes, o projeto é compilado/empacotado para verificar se o código está em condição de ser implantado.  
+   *Objetivo:* garantir que o código em `main` esteja sempre em estado "deployável".
+
+**Benefício:**  
+Esse processo automatizado reduz o risco de erros manuais, garante a estabilidade contínua do código e facilita a integração entre os desenvolvedores, permitindo que problemas sejam detectados logo no início do ciclo de desenvolvimento.
