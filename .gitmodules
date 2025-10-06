@@ -10,3 +10,9 @@
 	path = gaia-iac
 	url = https://github.com/CtrI-Alt-Del/gaia-iac.git
 	branch = main
+[submodule "gaia-parser"]
+	path = gaia-parser
+	url = https://github.com/CtrI-Alt-Del/gaia-parser
+[submodule "gaia-collector"]
+	path = gaia-collector
+	url = https://github.com/CtrI-Alt-Del/gaia-collector
