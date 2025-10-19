@@ -10,7 +10,7 @@
 - **Esforço estimado pela equipe:** O time analisou a complexidade de cada
   história e atribuiu uma pontuação ou estimativa de tempo.
 - **Protótipos de interface validados:** As propostas visuais (layouts e
-  wireframes) receberam o aceite formal do cliente ou stakeholder.
+  wireframes) receberam o aceite formal do cliente ou product owner.
 - **Arquitetura de dados concluída:** O modelo de como os dados serão
   estruturados, armazenados e relacionados está finalizado e acessível para
   consulta.

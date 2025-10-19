@@ -15,6 +15,3 @@
 - **Procedimento de implantação documentado:** Existe um guia passo a passo que
   detalha como configurar o ambiente e executar a aplicação, destinado a outros
   desenvolvedores ou à equipe de infraestrutura.
-- **Guia de utilização para o cliente:** Foi elaborado um documento que explica
-  as novas funcionalidades e como utilizá-las, servindo como um guia de
-  referência para o usuário final.
