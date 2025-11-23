@@ -13,3 +13,6 @@
 [submodule "gaia-collector"]
 	path = gaia-collector
 	url = https://github.com/CtrI-Alt-Del/gaia-collector
+[submodule "gaia-portal"]
+	path = gaia-portal
+	url = https://github.com/ctrI-Alt-Del/gaia-portal.git
