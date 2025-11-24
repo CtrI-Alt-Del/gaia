@@ -26,7 +26,7 @@ desastres naturais.
 | :----: | :---------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :-------------: |
 |   01   | 08/09/2025 a 28/09/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-1-report.md) | [Vídeo](https://drive.google.com/file/d/1NVJC_6bO8k0GkvUksZzdhMamQl-jTsjU/view?usp=sharing) | Concluida ✅ |
 |   02   | 06/10/2025 a 26/10/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-2-report.md) | [Vídeo](https://drive.google.com/file/d/1KP6k8Ungu-_iwjBWEmg2bVdYCxLGmyKe/view?usp=sharing) | Concluida ✅ |
-|   03   | 03/11/2025 a 23/11/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-3-report.md) | [Vídeo](https://drive.google.com/file/d/1eh2pXoVU4pVcnfh9B_E3i682H4exiIvz/view?usp=sharing) | Em andamento 🚧 |
+|   03   | 03/11/2025 a 23/11/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-3-report.md) | [Vídeo](https://drive.google.com/file/d/1eh2pXoVU4pVcnfh9B_E3i682H4exiIvz/view?usp=sharing) | Concluida ✅ |
 
 ## 🛠️ Tecnologias
 
@@ -76,7 +76,7 @@ coleta, processamento, persistência e disponibilização dos dados meteorológi
 
 ## 🏢 Arquitetura do Projeto
 
-<img src="./media/archtecture.png" />
+<img src="./media/gaia-archtecture.png" />
 
 ## 📁 Estrutura do Repositório
 
