@@ -25,8 +25,8 @@ desastres naturais.
 | Sprint |    Período da Sprint    |                                       Link para a documentação                                       |             Link para o vídeo no Youtube             |     Status      |
 | :----: | :---------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :-------------: |
 |   01   | 08/09/2025 a 28/09/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-1-report.md) | [Vídeo](https://drive.google.com/file/d/1NVJC_6bO8k0GkvUksZzdhMamQl-jTsjU/view?usp=sharing) | Concluida ✅ |
-|   02   | 06/10/2025 a 26/10/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-2-report.md) | [Vídeo](https://drive.google.com/file/d/1NVJC_6bO8k0GkvUksZzdhMamQl-jTsjU/view?usp=sharing) | Concluida ✅ |
-|   03   | 03/11/2025 a 23/11/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-3-report.md) | [Vídeo](https://www.youtube.com/watch?v=jNQXAC9IVRw) | Em andamento 🚧 |
+|   02   | 06/10/2025 a 26/10/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-2-report.md) | [Vídeo](https://drive.google.com/file/d/1KP6k8Ungu-_iwjBWEmg2bVdYCxLGmyKe/view?usp=sharing) | Concluida ✅ |
+|   03   | 03/11/2025 a 23/11/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-3-report.md) | [Vídeo](https://drive.google.com/file/d/1eh2pXoVU4pVcnfh9B_E3i682H4exiIvz/view?usp=sharing) | Em andamento 🚧 |
 
 ## 🛠️ Tecnologias
 
@@ -49,6 +49,13 @@ coleta, processamento, persistência e disponibilização dos dados meteorológi
 
 - **[PostgreSQL](https://www.postgresql.org/)** → Banco de dados relacional
   utilizado para armazenar os dados processados e otimizados para consultas.
+
+- **[Redis](https://www.postgresql.org/)** → Banco de dados não relacional
+  utilizado para caching de dados e prover o padrão pub/sub do Bull.
+
+- **[Bull](https://github.com/OptimalBits/bull)** → Biblioteca para Node.js extremamente popular usada para gerenciar filas de processamento (queues) em background.
+
+- **[Astro](https://astro.build/)** → Framework web moderno focado no Frontend e na entrega de páginas estáticas ultra-rápidas e otimizadas. 
 
 - **[Prisma](https://www.prisma.io/)** → ORM (Object-Relational Mapper) que
   facilita a interação com os bancos de dados, como PostgreSQL e MongoDB.
