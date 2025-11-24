@@ -76,7 +76,7 @@ coleta, processamento, persistência e disponibilização dos dados meteorológi
 
 ## 🏢 Arquitetura do Projeto
 
-<img src="./media/gaia-archtecture.png" />
+<img src="https://i.imgur.com/JonhNNm.png" />
 
 ## 📁 Estrutura do Repositório
 
